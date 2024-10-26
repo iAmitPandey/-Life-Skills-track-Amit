@@ -1,41 +1,24 @@
 # Learning Process
 
-  
+## 1. What is the Feynman Technique? Explain in 1 line.
 
-## Feynman Technique:
+The Feynman Technique is a method of learning by breaking down concepts into simpler words and explaining them as if you are teaching someone else.
 
-The Feynman Technique is a method of learning by simplifying concepts and explaining them in your own words as if teaching someone else.
+## 2. In this video, what was the most interesting story or idea for you?
 
-  
-## What was the most interesting story or idea in the TED talk by Barbara Oakley? 
+How the brain works to do tasks, switching between focused/active relaxed mode.
 
-The most interesting idea was how the brain switches between "focused" and "diffused" modes of thinking, allowing us to better solve complex problems by alternating between intense focus and relaxed, free thinking.
+## 3. What are active and diffused modes of thinking?
 
-  
-## What are active and diffused modes of thinking?
+In active mode brain uses all your mental energy to do a certain task, when you take a break it switchs to diffused mode, which connects you to the ideas and helps to understand things better.
 
-**Active (Focused) Mode:** Concentrated effort on a task, using working memory to solve problems.
+## 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
-**Diffused Mode:** Relaxed, free-flowing thinking, where the brain unconsciously makes connections and solves problems without focused attention.
+- Understand the topic first.
+- Break it to subtopics.
+- Remove barriers to practice.
+- Practice it until get comfidence in it.
 
-  
-## What are the steps to take when approaching a new topic?
+## 5. What are some of the actions you can take going forward to improve your learning process?
 
- - Deconstruct the skill into sub-skills.
- - Learn enough to self-correct.
- - Remove barriers to practice.
- - Practice for at least 20 hours.
-   
-
-## What are some actions you cActive (Focused) Mode:an take going forward to improve your learning process?
-
-
-**Maintain focused attention:** Limit distractions by using tools like TimeLimit or Freedom, and keep your phone on silent.
-
-**Time tracking:** Use productivity apps like Boosted to track your time and optimize your workflow.
-
-## Explain concepts in your own words: Practice the Feynman Technique to deeply understand and explain software concepts.
-
-Implement what you learn: Apply concepts in code or design to solidify your understanding.
-
-Set and adhere to deadlines: Use deadlines to allocate time to topics, focusing on concepts and making the learning process enjoyable.
+A good sleep
