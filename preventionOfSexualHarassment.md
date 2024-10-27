@@ -1,37 +1,29 @@
-# Sexual Harassment Overview:
+# Prevention of Sexual Harassment
 
-Sexual harassment refers to any unwelcome verbal, visual, or physical conduct of a sexual nature that is severe or pervasive, which affects working conditions or creates a hostile work environment. It can take many forms and may involve a wide range of behaviors that violate workplace policies and individual rights.
+## 1. What kinds of behaviour cause sexual harassment?
 
-## Forms of Sexual Harassment:
+- Unwanted behavior of a sexual nature, like words or actions, that makes someone uncomfortable or creates a hostile environment.
+- It violates workplace policies and personal boundaries.
 
-### Verbal Harassment:
+## 2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 
-- Comments about a person’s clothing or body.
+- I will talk to senior about the issue.
 
-- Sexual or gender-based jokes or remarks.
-- Requests for sexual favors or repeatedly asking someone out.
-- Sexual innuendos or threats.
-- Spreading rumors about a person’s personal or sexual life.
-- Using obscene language that is sexual in nature.\*
+## 3. What Does Bullying and Harassment Mean for You and Your Workplace?
 
-### Visual Harassment:
+- Bulling someone, making comments on him/her, making jockes on someone even if he/she is not comfortable with that.
+- Requesting for sexual favours.
 
-- Obscene posters, drawings, or pictures displayed in the workplace.
-- Sharing or showing sexually inappropriate materials (e.g., photos, videos).
+## Explains different scenarios enacted by actors.
 
-### Physical Harassment:
+- Asking for sexual favours, Asking for date
 
-- Sexual assault or any unwanted physical contact.
-- Impeding or blocking movement in a way that is sexual in nature.
-- Inappropriate touching, such as kissing, hugging, patting, or stroking.
-- Sexual gestures or leering at someone’s body.
+## How to handle cases of harassment?
 
-## Quid Pro Quo:
+- Report to the higher authority.
 
-"Quid pro quo" harassment occurs when a person in authority, such as a supervisor, demands sexual favors in exchange for workplace benefits like promotions, raises, or job security. It creates an unfair work environment where employees feel coerced or forced to comply.
+## How to behave appropriately?
 
-## Hostile Work Environment:
+- Avoid making comments about someone’s appearance or personal life, especially if they seem uncomfortable.
 
-A hostile work environment is created when pervasive, inappropriate behavior, language, or images make the workplace intimidating, offensive, or abusive for an employee. This can include repeated unwelcome sexual advances, comments, or actions that interfere with the individual's ability to work or feel safe.
-
-To prevent sexual harassment, employers should create and enforce strict anti-harassment policies, offer training, and provide avenues for victims to report incidents safely and confidentially.
+- Avoid bullying someone.
