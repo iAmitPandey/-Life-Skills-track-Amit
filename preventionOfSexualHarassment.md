@@ -7,7 +7,7 @@
 
 ## 2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 
-- I will talk to senior about the issue.
+- I will report to senior about the issue.
 
 ## 3. What Does Bullying and Harassment Mean for You and Your Workplace?
 
@@ -16,7 +16,7 @@
 
 ## Explains different scenarios enacted by actors.
 
-- Asking for sexual favours, Asking for date
+- Asking for sexual favours, Asking for date.
 
 ## How to handle cases of harassment?
 
